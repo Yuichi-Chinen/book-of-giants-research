@@ -1,0 +1,48 @@
+# 4Q533 — Book of Giants (Qumran Aramaic)
+# Source: ETCBC/dss v2.0.1 (Text-Fabric), based on transcriptions by Martin G. Abegg, Jr., James E. Bowley, Edward M. Cook
+# License: CC BY-NC 4.0 https://creativecommons.org/licenses/by-nc/4.0/
+# https://github.com/ETCBC/dss
+
+== 4Q533 frag. f1i ==
+1	0   ]T##J#?
+2	0   ] # T
+3	0
+4	0   ]K#DJ 00
+
+== 4Q533 frag. f1ii ==
+2	LM # [   0
+3	DJ  # [   0
+4	<QT#[   0  00
+
+== 4Q533 frag. f2 ==
+1	0   ] # K## # [   0
+2	0  W ]K<n B[   0
+3	0   ]H# WHS#[   0
+4	0   ]>#NXN>#[   0  00
+
+== 4Q533 frag. f3 ==
+1	0  YLW JL#DJn Mn QDMW?'H  0
+2	0  {{   ]> KTJB }} W#?K##L JB<##WN'K#Wn <#L#[   0
+3	0   ]K#TJB <L#[ J' ]KWn PTGm L#[ M>MR  0  00
+
+== 4Q533 frag. f4 ==
+1	0  L# ]Q#RH[  <L  ]>##R#<> KL D##[   0
+2	0  Dm  ]HWH M#TPk WKDBJ?n HWW M#[ MLLJn  0
+3	0  > ]L##[ H ]>## M#BWL <L >#R#<#>##[   0  00
+
+== 4Q533 frag. f5 ==
+1	0  <L#[   0
+2	0  > ]X#WJ#?[   0
+3	0   ]M##[   ]>##[   0  00
+
+== 4Q533 frag. f6 ==
+1	0   ]J?n T#[   0
+2	0   ]L##[   0  00
+
+== 4Q533 frag. f7 ==
+1	0   ]>##MR##[   0  00
+
+== 4Q533 frag. f8 ==
+1	0   ]n#?[   0
+2	0   ] # > W>ZL#[   0
+3	0   ] # #m# <L K##L##[   0  00

@@ -1,0 +1,138 @@
+# 6Q8 — Book of Giants (Qumran Aramaic)
+# Source: ETCBC/dss v2.0.1 (Text-Fabric), based on transcriptions by Martin G. Abegg, Jr., James E. Bowley, Edward M. Cook
+# License: CC BY-NC 4.0 https://creativecommons.org/licenses/by-nc/4.0/
+# https://github.com/ETCBC/dss
+
+== 6Q8 frag. f1 ==
+1	0   ] # [   0
+2	0  <N ]H## >WHJ> W>MR L#MH#W#?J  # [   0
+3	0   ]WL> MRTT Mn >XZJ'k KL> >[   0  W<NH MHWJ ]
+4	[ W>MR L>WHJ ]>## BRQ>L >B'J <M'JHWH 00  0
+5	0  W ]L#>#[  # ]JYJ  #  MHWJ?[  L> ]###T<J'H MH DJ[  >XZJ BRQ>L L'H ]
+6	[ W<NH >WHJ> W>MR L' ]H# >RW? TMHJn #M<T Hn? J?LDT# S##RJ#?[ QH  0  00
+
+== 6Q8 frag. f2 ==
+1	TLTT #R#W'H#J?  0  XZJ ]
+2	HWJ?T# <D DJ >TW[   0
+3	PRDS> Dn KL'H M##[   0  00
+
+== 6Q8 frag. f3 ==
+1	0  RB##H  0
+2	0   ]L#<##(^ < ^) #  # W(# T #)'H  0  00
+
+== 6Q8 frag. f4 ==
+1	] # [   0
+2	# BH WJ # [   0
+3	T##M##KWn[   0
+4	#  #  #  WL#> # [   0  00
+
+== 6Q8 frag. f5 ==
+1	0   ]n KL GNNJn#?[   0
+2	0   ] # L#[   0  00
+
+== 6Q8 frag. f6 ==
+1	0   ]L'HWn KMST##[   0  00
+
+== 6Q8 frag. f7 ==
+1	0  BJR # [   0
+2	0   ] #  # D # [   0  00
+
+== 6Q8 frag. f8 ==
+1	0  JM#RWn  # [   0
+2	0   ] #  #  #   # [   0  00
+
+== 6Q8 frag. f9 ==
+1	0   ]n? W # [   0
+2	0   ]J(# PSL #)[   0  00
+
+== 6Q8 frag. f10 ==
+1	0   ] #  # [   ] # [   0
+2	0   ] # Wn LKJ # [   0  00
+
+== 6Q8 frag. f11 ==
+1	0   ] #  # [   0
+2	0   ]L #  # [   0  00
+
+== 6Q8 frag. f12 ==
+1	0   ] #  #  # [   0
+2	0  D ]m# #G?[ J>  0  00
+
+== 6Q8 frag. f13 ==
+1	0   # R#  0  00
+
+== 6Q8 frag. f14 ==
+1	0  WPT#[ X  0  00
+
+== 6Q8 frag. f15 ==
+1	0   ]H KL##[   0
+2	0   ] #  # [   0  00
+
+== 6Q8 frag. f16 ==
+1	0   ] # L[   0
+2	0   ]W # [   0  00
+
+== 6Q8 frag. f17 ==
+1	0  L##H#n?[   0
+2	0   #  # T##[   0  00
+
+== 6Q8 frag. f18 ==
+1	0   ]L##JR#D  # [   0  00
+
+== 6Q8 frag. f19 ==
+1	0   ] #  # [   0  00
+
+== 6Q8 frag. f20 ==
+1	0   ]m#[   0
+2	0   ] # [   0
+3	0   ]X##[   0  00
+
+== 6Q8 frag. f21 ==
+1	0  DJ?L[   0  00
+
+== 6Q8 frag. f22 ==
+1	0   ] #  LR##G#?  # [   0
+2	0  LD##B##[   0  00
+
+== 6Q8 frag. f23 ==
+1	0   ]L#M# # [   0  00
+
+== 6Q8 frag. f24 ==
+1	0   ]H  # [   0
+2	0   ] # [   0  00
+
+== 6Q8 frag. f25 ==
+1	0   ]R#B## # [   0  00
+
+== 6Q8 frag. f26 ==
+1	LWB#R# <# # [   0
+2	LRWX##>##  # [   0
+3	W#?BXR #[   0
+4	]B#N?J?  #  # [   0  00
+
+== 6Q8 frag. f27 ==
+1	0   ] # R##<#D# M##[   0
+2	0   #  #  # M##R #  # [   0  00
+
+== 6Q8 frag. f28 ==
+1	0   ] #  #  #  R#P # [   0  00
+
+== 6Q8 frag. f29 ==
+1	0   ]k Dn?[   0
+2	0   ]L#[   0  00
+
+== 6Q8 frag. f30 ==
+1	0   ]n?[   0
+2	0   ] #  DJ M# # [   0
+3	0   ] #  H # [   0  00
+
+== 6Q8 frag. f31 ==
+1	0   ] #   # G?[   0
+2	0   ] # < L  # [   0  00
+
+== 6Q8 frag. f32 ==
+1	0   ] # [   0
+2	0   ]T# # # [   0  00
+
+== 6Q8 frag. f33 ==
+1	0   ]>#
+2	0   ]L# # ># 00

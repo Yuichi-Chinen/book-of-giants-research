@@ -1,0 +1,119 @@
+# 4Q203 — Book of Giants (Qumran Aramaic)
+# Source: ETCBC/dss v2.0.1 (Text-Fabric), based on transcriptions by Martin G. Abegg, Jr., James E. Bowley, Edward M. Cook
+# License: CC BY-NC 4.0 https://creativecommons.org/licenses/by-nc/4.0/
+# https://github.com/ETCBC/dss
+
+== 4Q203 frag. f1 ==
+1	K##D#J? >#Q#R##[ B  0
+2	BRQ>L  0
+3	>NP'J <W(# D #)[   0
+4	>#NH Q>#m##[   0  00
+
+== 4Q203 frag. f2 ==
+1	# [  >## # [   0
+2	<LJ'HWn?[   0
+3	0
+4	0  W<N ]H# MHW?[ J  0  00
+
+== 4Q203 frag. f3 ==
+1	0   ]H##[   0
+2	XBRW'H  0
+3	XWBB# W>#DK # [   0
+4	WMH TTNW?N#?'NJ LQ#[ VLH  0  00
+
+== 4Q203 frag. f4 ==
+1	0   ]B##'H#W?n?  0
+2	0   0
+3	0   ] #  >MR >WHJH LH[ HJH  0
+4	0   ] #  M#n <LWJ >R#<> W# # [   0
+5	0  >R ]<> K[ DJ  0
+6	0   ]##WJW WBKW QWD##[ m  0
+7	0   ]L#[   0  00
+
+== 4Q203 frag. f5 ==
+1	0   ] #   # [   0
+2	0   ]X#MS >NW?[ n  0
+3	0   ]Q##V#J?L#W#?  # [   0  00
+
+== 4Q203 frag. f6 ==
+1	0   ]K##[   0
+2	0   ]H#WH L'N>  0
+3	0   ]L# #  # [   0  00
+
+== 4Q203 frag. f7a ==
+1	0  N? #  #   0
+2	0   #  #  #   0
+3	W?TWQP##[ 'K ]H##[   0
+4	0
+5	B>D##[ Jn >MR  ]>#WHJH LHHJ[ H  0
+6	L'N>  ]H## L<Z>##[ Z ]L# W<BD L#[ 'H  0
+7	GBRJ> W<##[ JRJ ]># J?T#N#Wn KWL XB#[ RJ'HWn <L  0 00
+
+== 4Q203 frag. f7bi ==
+1	0   ] # [   0
+2	0
+3	0  B ]>DJn? <#NW JLD#W#?
+4	0  Mn  ]<##JRJn
+5	0   ] # L#H <GN'N> WT#Qp# L#'K##[ H  0  00
+
+== 4Q203 frag. f7bii ==
+1	L'KH B# # [   0
+2	LTRJ LWXJ>[   0
+3	WTNJN> <D K<n L> QR#J#?[ >  0  00
+
+== 4Q203 frag. f8 ==
+1	S#P##[ R  0
+2	0
+3	PR#Gn LWX> TN#?[ J ]N#?> DJ >J[ GRT>  0
+4	B##K##[ T ]B JD XNWk SP#R# PR#>#  0  <JR> ]
+5	WQDJ#> L#MJ?X##ZH# WLKWL X[ BRW'HJ  0  00
+6	JDJ< LHW> L'K#W?n? D##[ J  ]L#[   0
+7	W<WB#D#'KWn WDJ N## #  #  #  # [   0  GBRJ> ]
+8	>#NWn [ W ]B##N#?J#?[ 'HWn WN ]##J> D##[ J  0
+9	BZNWT'K#W?n B#>##R#<#> WHWT[  < ]L#J#?'K##[ Wn Q>MH  0  WMZ<QH ]
+10	WQBLH <LJ'KWn? [ W< ]L <WBD BNJ'KWn[   0
+11	XBL> DJ XBLTWn B'H  0
+12	<D RP>L MVH 00 >RW >BD#[ N>  0  KWL DJ B#MJ> WB>R<> ]
+13	WDJ BMDBRJ> W#?D##[ J ] B#J?M#J> WP##R YBWT##[ > D>  0  JHWH ]
+14	<LJ'KWn LB>J# 00 WK<n ##RW?># >SJR'KWn? MH#[   0
+15	WYLW  0  00
+
+== 4Q203 frag. f9 ==
+1	0   ] # L## #  W#?KWL  0
+2	0  R ]<#LJn Mn QWDm HDR JQ#[ R'KH  0
+3	0  MB ]Rk DJ KWL RZJ> JD[ < >NTH  0
+4	0   ]WKWL Y#B#W L> TQPT'KH  0
+5	0  Q ]WDMJ'KH 00 WK<n Q#[   0
+6	0   ]M#L#KWT RBWT'KH# L#[   0
+7	0   ] # W?m#  0
+8	0   ]J?n?  #  # [   0  00
+
+== 4Q203 frag. f10 ==
+1	0  W ]K<n MR'J?[   0
+2	0   ] #  #GJT WH#n?  # [   0
+3	0   ]TYB> WK[   0  00
+
+== 4Q203 frag. f11i ==
+1	0   ] #
+2	0   ]R# 00
+
+== 4Q203 frag. f11ii ==
+1	0
+2	WVL> W#?M##V##[ R>  0  00
+
+== 4Q203 frag. f12 ==
+1	W<D  0
+2	0
+3	>D[ J ]n?[   0  00
+
+== 4Q203 frag. f13 ==
+1	0  W#W ]JW Mn  #  # [   0
+2	0  >D ]Jn >MR L'H#[   0
+3	0  L>  ]>#JTJ L'KH ##[ Lm  0
+4	0   ]L# #  H##W?H#  0  00
+
+== 4Q203 frag. f14 ==
+1	>Ln >TJ#? GBR DJ >##[   0
+2	Y#HJR> GBR #MJ#?[ XZH  0
+3	H> <BD <BD##[ 'H  0
+4	W>n >T## # [   0  00

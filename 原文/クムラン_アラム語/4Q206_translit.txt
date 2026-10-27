@@ -1,0 +1,114 @@
+# 4Q206 — Book of Giants (Qumran Aramaic)
+# Source: ETCBC/dss v2.0.1 (Text-Fabric), based on transcriptions by Martin G. Abegg, Jr., James E. Bowley, Edward M. Cook
+# License: CC BY-NC 4.0 https://creativecommons.org/licenses/by-nc/4.0/
+# https://github.com/ETCBC/dss
+
+== 4Q206 frag. f1xx ==
+1	0  SXRJn L'H[   0
+2	0   ]R# L #  # [   0
+
+== 4Q206 frag. f1xxi ==
+1	0   ]>##W?H##
+2	0   ]B> HW>
+3	0  BL ]###N?J NWR
+4	0   ]m# 00
+
+== 4Q206 frag. f1xxii ==
+1	[ NP# ]T KL BNJ >N#> 00 WH>## >##Ln >NWn PXTJ> LBJT <GN'Wn?
+2	LKDn <B[ J ]D##W <D JWm DJ JTD##J#?Nn W<D ZMn JWm QY> D[ J ]
+3	DJN> RB> DJ MN'HWn JT<BD 00 TMn XZJT RWX
+4	>N# MT QBLH [ W ]>NJN'H <[ D ] #MJ> SLQ WMZ<#Q# WQB#[ L ] 00
+5	[ B>DJn #>LT LRP> ]L L<JR#> WQDJ#> D#[ J <M'J HWH ]
+6	[ W>MRT L'H DH RWX> QBLT ]> DMn HJ> DK#D##[ n >NJN'H ]
+7	[ SLQ WMZ<Q WQBL <D #MJ> 00 W<NH  ]L'J >[ MR H> DH HJ> ]
+8	[ RWX> DJ NPQT Mn HBL DJ QVL'H QJn >XW'HJ  0  00
+
+== 4Q206 frag. f1xxvi ==
+3	0   ]XD  # [  KLYPWn M<RBH Mn KWL> HWBL MJn WVL <WD ] 00
+4	[ Mn TMn ] >ZLT B>T##[ R >WXRn DJ BMDBR> W>RXQT ]
+5	[ #GJ> ] L[ MDN ]X P>##[ T> DH 00 WTMn XZJT >JLNJ BR> DJ ]
+6	[ >NWn MD ]M##<J#?[ n B#MJ LBWNH WMWR  0  00
+14	0  DB' ]H# M##[ L>Jn DM< WHW> DMH LQLPJ ]
+15	[ LWZ 00 KDJ  0   ] # W B>JL[ NJ> >Ln #DH MN'HWn B#m ]
+16	[ RJX KDJ ] MDQQ QLPW'HJ >##[ NWn <L KL B#m 00 WLHL> ] Mn
+17	[ VWRJ> ] >Ln KLYPWn MDNX'HWn [ >XZ ]JT VWRJn >XRNJn
+18	[ ML>Jn N ]RD VB WYPR WQRDMn#? [ WP ]LPLJn 00 WMn TMn HWBLT
+19	[ LMD ]NX KL V#WRJ> >Ln RXJQ MN'HWn LMDNX >R<> W>XLP#[ T ]
+20	[ <L ]> Mn J?[ M> ] #MWQ> W>RXQT# #GJ> MN'H W><BRT <##L#[ > ]
+21	M##n#? X#WK> RX[ J ]Q MN'H 00 W>XLPT LJD PRDS Q#V#[ > ] 00
+
+== 4Q206 frag. f1xxvii ==
+1	W>XZJT M##[ n RXJQ L>JLNJ> DB'H >JLNJn #GJ>Jn LXDH WRBRBJn ]
+2	#NJn? [ Dn Mn Dn WXZJT TMn >JLn DJ HWH #NH Mn KWL'HWn RB #GJ> ]
+3	W#?[ #PJR WJQJR  0  00
+9	0  >BW'k RB> ]
+10	[ W ]>M'k# RBT> WJD##[ <W MND< W>TPTXW <JNJ'HWn W>TBWNNW ]
+11	D##J#? <#RVLJJn  # [   0  00
+18	0   ] # [   0
+19	0  >WRJ>L XD Mn  ]<##JRJn W>#[ XWJ'NJ ]
+20	[ WKTB L'J KWL> W<WD KTB L'J #MHT'HWn ] B##H##D##M##JH LMZ(# M #)(^ N#? ^)J#?[ 'HWn ] 00
+21	[ WMn TMn >WBLT LYPWn SJ>PJ >R<> ] W>XZJT <BDJn (^ R ^)BR##[ BJn ] 00
+
+== 4Q206 frag. f2 ==
+1	0   ]Jn WK##L##[   0
+2	0  >TX ]W#?JT LXNWk S#[ PR PR#>  0
+3	0   ] # [   ]R H#>## RB>##[   0  00
+
+== 4Q206 frag. f3i ==
+5	0  >R< ]> K##L##[   0   ]m# MT<#T
+6	0   ] #  B'H# D#m HWH ##PJ?k
+7	0   ]H#W?W M##[   ] # [   ] # Jn B'H#[  K ]L# 00
+
+== 4Q206 frag. f3ii ==
+1	T>#[   0
+2	M# # [   0
+3	> # [   0  00
+
+== 4Q206 frag. f4i ==
+10	0  WKDJ HWJT XZH BXLM'J WH> LXD M ]n?
+11	[ >RB<T> DJ NPQW RMH Mn #MJ> DJ KWL K ]W#?KBJ> #GJ>J>
+12	[ DJ  0  KDLSWSJ> >SR L ]K##L#'HWn JDJn WRGLJn WRM>
+13	[ L'HWn BTHWm >R<> 00 WXD Mn >R ]B##<T> <#L <L XD Mn TWRJ>
+14	[ XWRJ> W>Lp L'H W< ]B##D# L'H <RB XDH WJTB BGW'H
+15	[ WTLTT TWRJ> <L ]W <M'H L<RB> W<RB> XPJT WKSJT
+16	[ Mn <LJ'HWn 00 WHWJT ] X#ZH WH> MRZBJn #B<H #PKJn
+17	[ <L >R<> MJn #GJ>Jn ] 00 WH> XDRJn PTJXW BGW> >R<> W#RJW
+18	[ LHB<H WLM<L <LJ'H W ]>##NH HWJT XZH <D >R<> XPJT MJn 00
+19	[ WX#Wk W#XQ WHWW ] Q#>MJn <LJ'H 00 WTWRJ> #Q<Jn WVB<Jn
+20	[ W>BDJn BMJ> >Ln ] 00 W<RBH PRXH <L> Mn MJ> WKL TWRJ>
+21	[ W<RDJ> WGMLJ> ] WPJLJ> JRW MJ#?[ n 00
+
+== 4Q206 frag. f4ii ==
+1	[ W<WD XZJT BXL ]M'J <D M##[ RZBJ> >Ln HTKL>W Mn VLJL> RM> Dn ]
+2	[ WBQJ<J ] XDRJ> #KJRW W?[ XDRJn >XRNJn PTJXW 00 WMJ> M#RJn ]
+3	W#?N#?X##TJn BGW'HWn <D SPW#? [ MJ> Mn <L> >R<> WHTGLJ>T W<RB> ]
+4	TQNT [ < ]L# >##R<> [ W<DH X#WK> WHWH NHWR> 00 WH> TWR> XWR> ]
+5	[ WT ]L[ TT TWRJ> <M'H NPQW Mn <RB> DH  0  00
+9	0  WHTJLD ]
+10	LMY##[ J<'HWn TWR XD XWR 00 W#RJW LMNKT WLMDBR >Ln ]
+11	L>Ln [ WTWR> XWR> HWLD <RD W<GL XWR KXDH W<RDJn HT#G>W ] 00
+12	W<GL> [ XWR> DJ HTJLD Mn TWR> XWR> HWLD XZJR >KWm WDKR ]
+13	ZJ <#[ n XWR WXZJR> HWLD XZJRJn #GJ>Jn WDKR> HWLD ]
+14	>MR##[ J ]n? T##[ RJ <#R 00 WKDJ RBJ>W JHBW >MR XD MN'HWn L<RDJ> ]
+15	W<R#DJ> JHB##[ W >MR> Dn LDBJ> W>MR> Dn RB> LWT DBJ> ] 00
+16	WDBR DKR> L[ XD <#R >MRJ> KWL'HWn LMTB WLMR<> <M'H ]
+17	LWT D##BJ>## WHT##[ #G>W WHT<BDW <n DJ >MRJn RBRBJn 00 WDBJ> ]
+18	##R#JW LMLXy L<N?[ > <D RMW KWL XD WXD Mn VLJ'HWn BJBL> RB> ]
+19	[ DJ J ]#Q< MJn B##[ >DJ ]n#? [ #RJW >MRJ> LZ<QH <L VLJ'HWn WLMQBL ]
+20	[ LQWBL MR>'HWn 00 WXD ] >MR NT##[ R Mn DBJ> <RQ W>ZL L<RDJ> WXZJT <D ]
+21	[ <N> >Nn WMZ<Q TQJP ]J?T <D NXT M##[ R> <N>  0  00
+
+== 4Q206 frag. f4iii ==
+13	0   ]M##J#?>##[  WSLQW <D KSJ DBJ> ] 00
+14	[ WHWJT XZH <D KL D ]B#J> RDPJn L<N[ > Dn >BDW ]
+15	[ #Q<Jn WVB<Jn W ]M#J?> XPW <LJ'HWn 00 W<##[ N> NGDW Mn ]
+16	[ MJ> >Ln W>ZL ]W#? YDJWT> >TR ZJ#? [ L> >JTJ B'H ]
+17	[ MJn W<#BJ ]n#? W<JNJ'HWn HTPTX##[ W WXZW WXZJT ]
+18	[ <D MR> <N> R<> ] L'HWn WJHB L'H##[ Wn ] M##J> [ LM# ]T#[ > ]
+19	[ W<#B> LM>KL 00 W>MR> S ]LQ LR#[ ># K ]p## XD Rm WM##[ R> ]
+20	[ <N> #LX L'H LWT <N> WK ]L[ 'HWn Q ]M##W Mn [ RXJQ 00 B>DJn ]
+21	[ XZJT WH> MR> <N> Q>m LQWBL <N ]H## WX##[ ZJ'H TQJp  0  00
+
+== 4Q206 frag. f5 ==
+1	LQBL <N>#[   0
+2	WKL'HW#?n#?[   0  00

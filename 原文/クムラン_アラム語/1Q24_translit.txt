@@ -1,0 +1,47 @@
+# 1Q24 — Book of Giants (Qumran Aramaic)
+# Source: ETCBC/dss v2.0.1 (Text-Fabric), based on transcriptions by Martin G. Abegg, Jr., James E. Bowley, Edward M. Cook
+# License: CC BY-NC 4.0 https://creativecommons.org/licenses/by-nc/4.0/
+# https://github.com/ETCBC/dss
+
+== 1Q24 frag. f1 ==
+1	0   ]Q##[   ]R#W?'H#[ J  0
+2	0   ] #  #  W #  #  # [   ]n? WHJ?[   0
+3	0   ]L#[   ]J?> WL#NHR##>##  0
+4	0   ]J#?>## WLXMRJ> W?L#[   0
+5	0   ] #  WLKWL##[   0
+6	0   ] # PJ> WLM # [   0
+7	0   ]># WLBRQJ>#[   0
+8	0   ]L# # [   ] # [   0  00
+
+== 1Q24 frag. f2 ==
+1	0   ] # [   0
+2	0   ]<#L >R[ <>  0
+3	0   ]L#[   0  00
+
+== 1Q24 frag. f3 ==
+1	0   ] #   0
+2	0   ]T>  0
+3	0   ]LKWL X#####[   0  00
+
+== 1Q24 frag. f4 ==
+1	0   ]M##J> H # [   0  00
+
+== 1Q24 frag. f5 ==
+1	0   ]M##[   ] # [   0
+2	0   ]R##W?# WJY # [   0
+3	0   ] # RJ'HWn WLKWL  0
+4	0   ]W#?L#MVR> WLVL#[ >  0
+5	0   ]L#[   ]L#[   0  00
+
+== 1Q24 frag. f6 ==
+1	0   ]LK#W?L#  0
+2	0   ]L#  #  # J#? PJ[   0  00
+
+== 1Q24 frag. f7 ==
+1	0   ] #  JWm Qy##[   0
+2	0  KWL> GMJRJ#?[ n  0
+3	0  < ]LJ'HWn DJ[   0  00
+
+== 1Q24 frag. f8 ==
+1	0   ] #  # n?[   0   ] # [   0
+2	0   ]L#> #Lm L'KWn[   0  00

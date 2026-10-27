@@ -1,0 +1,16 @@
+# 4Q556 — Book of Giants (Qumran Aramaic)
+# Source: ETCBC/dss v2.0.1 (Text-Fabric), based on transcriptions by Martin G. Abegg, Jr., James E. Bowley, Edward M. Cook
+# License: CC BY-NC 4.0 https://creativecommons.org/licenses/by-nc/4.0/
+# https://github.com/ETCBC/dss
+
+== 4Q556 frag. f1 ==
+1	0  J ]<#R##QWn  0
+2	0   ] #  # [   ]LVWR SJNJ  0
+3	0   ]M#RJ#?T##[ > WJ ]#W> >NPW'HJ[   0
+4	0   ]D## WJQD BNW#?[ R> DJ ] K##WR> B>J#H  0
+5	0  WQ ]DMJ'H WJYW?R##[   ]L##JPW WJXD'NH  0
+6	0   ]M##DJNT> XDT> DJ #BH KL DJ HW> B'H##[   0
+7	0   ] # n? <L DNH >M#R NBJ>> DJ JXD##[   0
+8	0   ] # > Mn QDm ZW + JN> >RW LHW>[   0
+9	0   ]W#?n? Mn JPW> <D VWR>##[   0
+10	0   ]LH## ML> V##WR##[   0  00

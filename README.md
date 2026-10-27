@@ -1,12 +1,50 @@
 # 巨人の書 調査プロジェクト
 
-第二神殿時代のユダヤ教文書『巨人の書』（The Book of Giants）についての調査記録。
+第二神殿時代のユダヤ教文書『巨人の書』（The Book of Giants）についての調査記録と、原語テキストの収集アーカイブ。
 
 ※『巨人の書』はエチオピア正教会の聖典ではありません。エチオピア正教会の聖典に入っているのは関連文書の『エノク書』（第一エノク書）です。
 
 ## 構成
 
 - [`巨人の書_調査メモ.md`](./巨人の書_調査メモ.md) — 調査の記録（概要、クムラン写本とマニ教版、あらすじ、第一エノク書との関係、研究文献）
+- `原文/クムラン_アラム語/` — クムラン出土アラム語断片の本文（写本ごと。`*_aramaic.txt` はヘブライ方形文字、`*_translit.txt` はラテン文字翻字）
+- `原文/参照資料/` — 参照用PDF（ローカル保存のみ。Git管理外）
+- `scripts/extract_giants.py` — ETCBC/dss データから上記本文を抽出したスクリプト
+
+## クムラン アラム語本文
+
+出典：[ETCBC/dss](https://github.com/ETCBC/dss) v2.0.1（Text-Fabric 形式）。M. G. Abegg, Jr., J. E. Bowley, E. M. Cook による転写に基づく。
+ライセンス：**CC BY-NC 4.0**（表示・非営利）。このフォルダのファイルにも同じ条件が適用されます。
+
+| 写本 | 別名 | 断片数 | 行数 | 備考 |
+|---|---|---|---|---|
+| 1Q23 | 1QEnGiants^a | 27 | 83 | |
+| 1Q24 | 1QEnGiants^b? | 8 | 27 | 帰属に議論あり |
+| 2Q26 | 2QEnGiants | 1 | 4 | |
+| 4Q203 | 4QEnGiants^a | 17 | 81 | |
+| 4Q206 | 4QEn^e | 12 | 86 | 大部分は第一エノク書。『巨人の書』とされるのは frag. 2–3（Milik の 4Q206a） |
+| 4Q530 | 4QEnGiants^b | 15 | 74 | オフヤとハフヤの夢、マハワイの派遣 |
+| 4Q531 | 4QEnGiants^c | 50 | 195 | |
+| 4Q532 | 4QEnGiants^d | 3 | 36 | |
+| 4Q533 | 4QEnGiants^e? | 9 | 26 | 帰属に議論あり |
+| 4Q556 | — | 1 | 10 | 『巨人の書』の一部とする説あり |
+| 6Q8 | 6QpapGiants | 33 | 68 | パピルス写本 |
+
+### 表記の読み方
+- `[ ]`：現代の校訂者による復元。Unicode 版では方向が反転し `] … [` と表示される
+- `?`、`#`、`##`：判読の不確かな文字（右ほど不確かさが大きい）
+- `ε`：欠損した文字。翻字版では `0`
+- `׃`：行末や区切りの記号
+- 詳細：[feature_documentation](https://github.com/ETCBC/dss/blob/master/docs/feature_documentation.md)
+
+## マニ教版（参照資料・ローカル保存のみ）
+
+| ファイル | 内容 | 入手先 | 権利状況 |
+|---|---|---|---|
+| `manichaean_book_of_giants_lieu_2024.pdf` | *The Art of the Manichaean Scribe II: Book of the Giants*（S. N. C. Lieu 編, 2024-09-18, 122頁）。Henning・Sundermann・Morano・Wilkens が公刊した中世ペルシア語、ソグド語、ウイグル語などの断片（M101 ほか, Kawān A–Z）の翻字、英訳、写真 | [manichaeism.de](https://www.manichaeism.de/wp-content/uploads/2024/10/ArtMS2-Book-of-Giants-18.9.2024.pdf) | 無償公開。ライセンス表示なし。145MB で GitHub の上限を超える |
+| `marro_book_of_giants_critical_edition_2025.pdf` | I. Marro Sánchez, *The Book of Giants: A Critical Edition of the Aramaic Fragments…*（LMU ミュンヘン博士論文, 2025, 675頁）。アラム語断片の最新の批判校訂、英訳、イラン語断片、シェムハザイのミドラシュを収録 | [LMU edoc](https://edoc.ub.uni-muenchen.de/36601/) | オープンアクセス。ライセンス表示なし |
+
+この2点は再配布の許諾が明示されていないため、リポジトリ（公開）には含めず、`.gitignore` で除外しています。必要な場合は上記の入手先から取得してください。
 
 ## 関連プロジェクト
 

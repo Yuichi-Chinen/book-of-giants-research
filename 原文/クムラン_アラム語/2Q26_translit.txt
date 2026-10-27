@@ -1,0 +1,10 @@
+# 2Q26 — Book of Giants (Qumran Aramaic)
+# Source: ETCBC/dss v2.0.1 (Text-Fabric), based on transcriptions by Martin G. Abegg, Jr., James E. Bowley, Edward M. Cook
+# License: CC BY-NC 4.0 https://creativecommons.org/licenses/by-nc/4.0/
+# https://github.com/ETCBC/dss
+
+== 2Q26 frag. f1 ==
+1	0   ]H##DJXW LWX> LMM##[ XQ  0
+2	0   ]WSLQW MJ> <L> Mn [ LW ]X##>[   0
+3	0   ] #  #  W#?N?V#LW LWX> Mn MJ> LWX> DJ#?[   0
+4	0   ] # H##R## # [   ]L'H#n? K##W#?L # [   0  00

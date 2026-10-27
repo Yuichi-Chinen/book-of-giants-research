@@ -1,0 +1,16 @@
+# 4Q556 — Book of Giants (Qumran Aramaic)
+# Source: ETCBC/dss v2.0.1 (Text-Fabric), based on transcriptions by Martin G. Abegg, Jr., James E. Bowley, Edward M. Cook
+# License: CC BY-NC 4.0 https://creativecommons.org/licenses/by-nc/4.0/
+# https://github.com/ETCBC/dss
+
+== 4Q556 frag. f1 ==
+1	ε י ]ע#ר##קון ε
+2	ε  ] #  # [   ]לטור סיני ε
+3	ε  ]משרי#?ת##[ א וי ]שוא אנפו׳הי[  ε
+4	ε  ]ד## ויקד בנו#?[ רא די ] כ##ורא באישה ε
+5	ε וק ]דמי׳ה ויצו?ר##[   ]ל##יפו ויחד׳נה ε
+6	ε  ]מ##דינתא חדתא די שבה כל די הוא ב׳ה##[  ε
+7	ε  ] # ן? על דנה אמ#ר נביאא די יחד##[  ε
+8	ε  ] # א מן קדם זו+ינא ארו להוא[  ε
+9	ε  ]ו#?ן? מן יפוא עד טורא##[  ε
+10	ε  ]לה## מלא ט##ור##[  ε ׃

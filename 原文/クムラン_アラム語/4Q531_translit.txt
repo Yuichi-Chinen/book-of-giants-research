@@ -1,0 +1,299 @@
+# 4Q531 — Book of Giants (Qumran Aramaic)
+# Source: ETCBC/dss v2.0.1 (Text-Fabric), based on transcriptions by Martin G. Abegg, Jr., James E. Bowley, Edward M. Cook
+# License: CC BY-NC 4.0 https://creativecommons.org/licenses/by-nc/4.0/
+# https://github.com/ETCBC/dss
+
+== 4Q531 frag. f1 ==
+1	0  <JRJ ]n? >VMJW  0
+2	0   ]G?BRJn WNPJLJn  # [   0
+3	0  DJ <JRJn ] >WLDW W?>LW KG#?[ BRJn  0
+4	0   ]B##DM'H W<L JD MH#[ WMT( > )  0
+5	0  GBR ]Jn DJ L> #PQ L'HWn WL#B##[ NJ'HWn  0
+6	0  WB<Jn LM>KL #GJ> ML#[   0
+7	0  00  0
+8	0  P ]T#XW'H NPJLJ>  0  00
+
+== 4Q531 frag. f2+3 ==
+1	0   ]#HR>##[   0
+2	0  KWL DJ  ]>##R<> <BDT#[   0
+3	0  # ]M#[ J ]m##[  WKWL  ]NWNJ> RBR#[ BJ ]>##  #  #  # [   0
+4	0   ]WKWL <#W?p# #MJm <m K#WL DJ? PR>##[   0
+5	0  W<m  ]<##B ZR< >##R##<> WKWL DGN> WKWL >JLNJ>#[   0
+6	0  W<m  ]<##N> B<JR> {{ DMW }}DQDQ> <m##[   0
+7	0  WKW ]L #RY#>R<> 00 W>XRJ? KW?L[   0
+8	0  KW ]L <WBD Q#H WMMR> Mn?[   0
+9	0   ]DKR WNQBH# WB>N#> L[   0
+10	0   ]M##D##<#>#[   ] # X##K##M#H WRX##[   0  00
+
+== 4Q531 frag. f4 ==
+1	0  W ]MBW<J?[   0
+2	0   ]WKWL #Ry >##[ R<>  0
+3	0   ]<#BDTH KWL >##[ LJn  0
+4	0   ]W#?T##> RB#T##[ >  0  00
+
+== 4Q531 frag. f5 ==
+1	0   ]>##[   0
+2	0   0
+3	0  > ]M#R L'H D##J#? >NH JD< <D D##[ J  0
+4	0   ] # H WKWL DJ <LJ'KH V#[   0  00
+
+== 4Q531 frag. f6 ==
+1	0   ]L##W#?[   0
+2	0   ] #  D##BR#Jn  # [   ] # [   ] # [   ] #  # [   0
+3	0   ]J?H#BTH L'H D#K##R##N?> DNH B##>##[   0
+4	0  > ]{{ T }}V#M##J#?W#? <#LJ#?'K##W[ n ] V##[ M>H RB ]># B##>##[   0  00
+
+== 4Q531 frag. f7 ==
+1	0   ]WL>XJ?Rm W#?[   0
+2	0  WL ]<#N>L WLB#R#Q#>#[ L WLN ]P##J#?L##J#?n  0
+3	0   ]L W#?LN<M>L WLR#[ Z>L ] WL<MJ>L##[   0
+4	0  WL ]K##WL >LJn GBRJ> 00 MH XV#[ J ]>## L'KH DJ QVL[ TH  0
+5	0   ] #  HL> KWL >LJn >ZLW BXRB'K#H#[   0
+6	0  Dm #GJ> #PJk  ]K#NHRJn RBRBJn <L >#[ R<>  0
+7	0   ]<#LJ'KH <##[ #>L  0  00
+
+== 4Q531 frag. f8 ==
+1	0   ]>#L WL>##[ R<TQp  0
+2	0  W ]L###[   0  00
+
+== 4Q531 frag. f9 ==
+1	0   ]MR<[   0
+2	0   ]>##L  0
+3	0   ]L#[   0  00
+
+== 4Q531 frag. f10 ==
+1	0   0
+2	0  Q ]V#JLJ?n#?[   0  00
+
+== 4Q531 frag. f11 ==
+1	0  S ]T##R# Mn K##[ WL  0
+2	0  XZJ ]T# KWRSJ'H W # [   0
+3	0  X ]M#H QWDMW'H#[ J  0  00
+
+== 4Q531 frag. f12 ==
+1	0   ]>##JTJ K#WL##[   0
+2	0  > ]PJL LBW#'H#[   0
+3	0   ]R## WK##BJBJn D##[ J NWR  0  00
+
+== 4Q531 frag. f13 ==
+1	0   ]K##T#PT'H W>#RJ#?[   0
+2	0   ] # > QWDm XD[ ( T )  0
+3	0   ]H##J JQJRJn[   0
+4	0  Mn ZJW> R[   0
+5	0  BDMWT'H  0
+6	0   ]D##J#? N?H#W#?R##  # [   0  00
+
+== 4Q531 frag. f14 ==
+1	0   ]R##TH >Lp >LPJn L##'H##[  M#M#Jn  0
+2	0   ]W'HJ L#># BHJL <L KWL# M#L#k## W>L##[   0
+3	0   ]>XDT W>NH NP##LT <L >NP'J QL'H #M[ <T  0
+4	0  L ]>## JTB BJn BNJ >N# WL> >Lp MN'HWn[   0
+5	0  00  0
+6	0   ]D##J#? M#[   ] # D## # [   ]M>n TRJn[   0
+7	0   ] #  #  # [   ]M##># # [   0  00
+
+== 4Q531 frag. f15 ==
+1	0   ]W#?#H##[   0
+2	0   ] #  HL>[   0
+3	0   ]W#?>WXRT  0
+4	0   ] # H#  0  00
+
+== 4Q531 frag. f16 ==
+1	0  W#?[   0
+2	0  W>MR##[   0
+3	0   ]>RJ?X##[   0
+4	0   ]K#H  0  00
+
+== 4Q531 frag. f17 ==
+1	0  Q# ]JVJn {{ W }}(<< H >>)(^ Q ^)D#TH#[   0
+2	0  <Lm L'J <BDTH##[   0
+3	0   ]LM>BL KWL <DNJ[   0
+4	0  #LXTH  ]L# # [   0
+5	0   ]B#R> WLB##[   0  00
+
+== 4Q531 frag. f18 ==
+1	0   ]QDJ# RJ?m MQm[   0
+2	0   ]M##>W?R XRBn >BDn  0
+3	0   ] # > >NXN> DJ XVJ?[ N>  0
+4	0  W#?>##N?H MXBL WJB#[ DWn  0
+5	0  >N ]##># X##B##[   0  00
+
+== 4Q531 frag. f19 ==
+1	0   ]n#?[   0   ] # [   0
+2	0  <( W )B ]D##J XMS #GJ> BJ#?B#T>
+3	0  DJ  ]L##[ > ] GRMJn >NXN> W#?L> B#R
+4	0  B ]##R WNTMXH Mn YWRT'N>
+5	0  W ]###R## Q#D#J?#J'KH L'N>[   0
+6	0   0  00
+
+== 4Q531 frag. f20 ==
+1	0   ] # p# Q#D##L#>##[   0
+2	0   0
+3	0   ]D##XVJn WL[   0
+4	0   ] # [   0  00
+
+== 4Q531 frag. f21 ==
+1	0  W#?>NTWn
+2	0  T ]Q##NT<LMJn 00
+
+== 4Q531 frag. f22 ==
+1	0  <L JD #M>L ]>## W?JMJN>[  ( W )>TB<J  ]K#WL BJT[  WYD ]J?Q L> [ >#TKX  0
+2	0  BJn <QR ZR ]<##'HWn 00
+3	[ KDJ >NH MT ]GBR WBTQWp XJL DR<'J WBXSn GBRW?T'J?
+4	[ WSLQT <L K ]W#?L B#R W<BDT <M'HWn QRB BRm L>
+5	[ TQPT WL>  ]M###KX >NH <M'n L>#TR#RH DB<LJ DJN'J
+6	[ ML>KJ> DB#MJ ]># JTBJn WBQD#J> >NWn #RJn WL>
+7	[ >TMXW D>NW ]n TQ#JPJn MN'J 00
+8	[ >RW QL G< ]R#H DJ XJWT BR> >TH W>J?# BR> QRJn#?
+9	[ NQMT'HWn 00  ]WK#Dn >#MR L'H# >WHJH XLM'J >NS'N[ J  0
+10	[ WNDT MN'J # ]NT <JN'J LMXZ> [ XZ ]W#?H 00 >RW JD< >NH DJ <L##
+11	[ XZWH L> > ]DMW?k WL> >##B<# L'H##[ Wn DJn KN# ]T#>#[   0  00
+12	[ W>DJn G ]LG?MJ## >MR [ X ]LM'KH[   ]###L##[ m  0  00
+
+== 4Q531 frag. f23 ==
+1	LMXH LZMn JWMJn?[   0
+2	KWL R#J<J> M[   0
+3	>TQVL W>MWT  # [   0
+4	0   ]K##WL>## J(# # #)[ JYJ>  0
+5	0   ] # [   ] # [   0  00
+
+== 4Q531 frag. f24 ==
+1	0   ] # B##[   0
+2	0   ]>##SR WNTL##[ QX  0
+3	0   ]JD RBJ> #NJ>#[   0  00
+
+== 4Q531 frag. f25 ==
+1	0   ]n#?[   0
+2	0   ] #  D#J? <#BJD B # [   0
+3	0  MH ]W#?J#? <BWR'J WLM##[   0
+4	0   ]L> JSWp KWL[   0
+5	0   ] #  >##NWn M>TJ#?n#?  #   0
+6	0   ] # n#? #  #  #  00
+
+== 4Q531 frag. f26 ==
+1	0   ]M##L##L# <#L#J'k MLk## W#?[   0
+2	0   ]MPLT BNJ'KWn W[   0
+3	0   ] # [   ]L#[   0  00
+
+== 4Q531 frag. f27 ==
+1	0   ] #   #  # [
+2	0   ] # m L'KWn
+3	0   ]<#PR#> BD#>##
+4	0
+5	0   ] # > L[   0
+6	0   ] # [   0  00
+
+== 4Q531 frag. f28 ==
+1	0   ]n#?[   0
+2	0  BDM'H#[ Wn  0
+3	0  >M ]RW? KDn  0
+4	0   ]K<n LK>##[   0
+5	0   ]>MRT#[   0
+6	0  LM # [   0  00
+
+== 4Q531 frag. f29 ==
+1	0   ]Q##[   ]<##[   0
+2	0   ]Q##L'J  0
+3	0   ]LMXZ> [ XZW>  0
+4	0  Q ]D##J#  # [   0  00
+
+== 4Q531 frag. f30 ==
+1	0   ] #  # [   0
+2	0   ]R## WL> T # [   0
+3	0   ]D#J N#TR>  0
+4	0   0
+5	0   ]L[   0  00
+
+== 4Q531 frag. f31 ==
+1	0   0
+2	0   ] # W#?'HJ WKMDM>[   0
+3	0   ] # JH {{ M }}#NJ># B # [   0  00
+
+== 4Q531 frag. f32 ==
+1	0   ] #  #  # H# >##[   0
+2	0   ]W?K#<n BDM>[   0
+3	0   0  00
+
+== 4Q531 frag. f33 ==
+1	0   ]J?RGZWn?[   0
+2	0   ]n#? <LJ?[   0  00
+
+== 4Q531 frag. f34 ==
+1	0   ]J#?> QB##[ L( J )n  0
+2	0  < ]BDTH W<L#[   0
+3	0   ]R#J?'H <#[   0  00
+
+== 4Q531 frag. f35 ==
+1	0   ]<D T#[   0
+2	0   ]XVJ#?n  # [   0  00
+
+== 4Q531 frag. f36 ==
+1	0   ] #  L<J?[ RJ>  0
+2	0  M ]L#>#K##[   0  00
+
+== 4Q531 frag. f37 ==
+1	0  K ]T##B'H[   0
+2	0  SXR#[   0  00
+
+== 4Q531 frag. f38 ==
+1	0   ]MJ?T#[   0
+2	0   ]R## SXR[   0  00
+
+== 4Q531 frag. f39 ==
+1	0  L ]MHG>#[   0
+2	0   ]LVWR  0  00
+
+== 4Q531 frag. f40 ==
+1	0   ]DJ G##[ M  0
+2	0  M ]LT'H#[   0  00
+
+== 4Q531 frag. f41 ==
+1	0   ]L##'Hn?[   0
+2	0   ]J?M>  0
+3	0   ]>#  0  00
+
+== 4Q531 frag. f42 ==
+1	0  > ]N#?TW?n
+2	0   ]>#NWn 00
+
+== 4Q531 frag. f43 ==
+1	0  L>##  0
+2	0   ]D##L'J?  0
+3	0   ] # H#[   0  00
+
+== 4Q531 frag. f44 ==
+1	0   ] #  # >## L## # [   0
+2	0   ]> LXNWk L##[   0
+3	0   ]MX#H WQW#?###[ V( > )  0
+4	0   ] # [   0  00
+
+== 4Q531 frag. f45 ==
+1	0   ]>##TPNJT  0
+2	0   0
+3	0   ]J#?n NPQW MB#HLJn  # [   0
+4	0   ]> <D #MJ>[   0
+5	0   ] #  M##Q#[   0  00
+
+== 4Q531 frag. f46 ==
+1	]W#?>NH >#W#?[ HJH  0
+2	]SLQT W<LT L####[ MJ>  0  00
+
+== 4Q531 frag. f47 ==
+1	0  SPRJn P ]T##J?XJn BM##[ L>k  0
+2	0   ]QDJ# >##[   0
+3	0   ] #  # [   0  00
+
+== 4Q531 frag. f48 ==
+1	0  WLGB##[ R( Jn )  0  00
+
+== 4Q531 frag. f49 ==
+1	0   ]B##V#W?B##[   0
+2	0   ]>## B>X##[   0
+3	0   ]L#[   ]L[   ] # [   0  00
+
+== 4Q531 frag. f50 ==
+1	0   ]DNH[   0
+2	0   ]L##L##[   0  00
+
+== 4Q531 frag. f51 ==
+1	0   ]#[   0  00
